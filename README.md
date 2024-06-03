@@ -1,4 +1,4 @@
-# Gorch
+# Gorch IMG
 
 <p align="center">
   <a href="https://github.com/cesarneves-security/Gorch.git"><img src="/img/Gorch-console.png" alt="Gorch"></a><img src="/img/Gorch-vscode.png" alt="Gorch"></a>
